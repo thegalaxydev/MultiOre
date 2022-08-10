@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "multiore:block/multi_ore"
+    }
+  }
+}
